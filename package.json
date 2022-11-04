@@ -1,0 +1,15 @@
+{
+  "name": "a-look",
+  "version": "1.0.0",
+  "description": "Clothing_Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "author": "vikram_sungadi",
+  "license": "ISC"
+}
